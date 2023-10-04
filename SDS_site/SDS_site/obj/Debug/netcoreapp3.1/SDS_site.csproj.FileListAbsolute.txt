@@ -1,0 +1,8 @@
+D:\sds\SDS_site\SDS_site\obj\Debug\netcoreapp3.1\SDS_site.csproj.AssemblyReference.cache
+D:\sds\SDS_site\SDS_site\obj\Debug\netcoreapp3.1\SDS_site.GeneratedMSBuildEditorConfig.editorconfig
+D:\sds\SDS_site\SDS_site\obj\Debug\netcoreapp3.1\SDS_site.AssemblyInfoInputs.cache
+D:\sds\SDS_site\SDS_site\obj\Debug\netcoreapp3.1\SDS_site.AssemblyInfo.cs
+D:\sds\SDS_site\SDS_site\obj\Debug\netcoreapp3.1\SDS_site.csproj.CoreCompileInputs.cache
+D:\sds\SDS_site\SDS_site\obj\Debug\netcoreapp3.1\SDS_site.MvcApplicationPartsAssemblyInfo.cache
+D:\sds\SDS_site\SDS_site\obj\Debug\netcoreapp3.1\SDS_site.RazorAssemblyInfo.cache
+D:\sds\SDS_site\SDS_site\obj\Debug\netcoreapp3.1\SDS_site.RazorAssemblyInfo.cs

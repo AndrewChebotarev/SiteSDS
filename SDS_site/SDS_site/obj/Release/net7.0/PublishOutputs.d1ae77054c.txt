@@ -1,0 +1,7 @@
+D:\sds\SDS_site\SDS_site\obj\Release\net7.0\PubTmp\Out\SDS_site.exe
+D:\sds\SDS_site\SDS_site\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\sds\SDS_site\SDS_site\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\sds\SDS_site\SDS_site\obj\Release\net7.0\PubTmp\Out\SDS_site.dll
+D:\sds\SDS_site\SDS_site\obj\Release\net7.0\PubTmp\Out\SDS_site.deps.json
+D:\sds\SDS_site\SDS_site\obj\Release\net7.0\PubTmp\Out\SDS_site.runtimeconfig.json
+D:\sds\SDS_site\SDS_site\obj\Release\net7.0\PubTmp\Out\SDS_site.pdb

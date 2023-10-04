@@ -1,0 +1,7 @@
+D:\sds\SDS_site\publish\SDS_site.exe
+D:\sds\SDS_site\publish\appsettings.Development.json
+D:\sds\SDS_site\publish\appsettings.json
+D:\sds\SDS_site\publish\SDS_site.dll
+D:\sds\SDS_site\publish\SDS_site.deps.json
+D:\sds\SDS_site\publish\SDS_site.runtimeconfig.json
+D:\sds\SDS_site\publish\SDS_site.pdb

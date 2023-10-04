@@ -1,0 +1,23 @@
+﻿.TextSDS 
+{
+    letter-spacing: 0.05em;
+    font-weight: 500;
+}
+
+.BlackLine 
+{
+    height: 2px;
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.BackgroundColor
+{
+    background-color: lightcyan;
+}
+
+.BlackColor
+{
+    color:black;
+}

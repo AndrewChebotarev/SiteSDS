@@ -1,0 +1,120 @@
+.TextBlock
+{
+    letter-spacing: 0.2em;
+    font-weight: 600;
+}
+
+.TextSDS
+{
+    letter-spacing: 0.05em;
+    font-weight: 500;
+}
+
+.TextForButton 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container h1, .container p, .container button
+{
+    text-align: center;
+}
+
+.square-btn
+{
+    width: 150px;
+    height: 40px;
+    padding: 0;
+    border: 1px solid black;
+}
+
+.BlackLine
+{
+    height: 2px;
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bg-image-parallax 
+{
+    background-position: center center;
+}
+
+.bg-image-responsive
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.NovelBackground
+{
+    background-image: url('/img/HomePage/NovelBackground.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.GameCreationBackground 
+{
+    background-image: url('/img/HomePage/GameCreationBackground.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.NovelDesignerBackground 
+{
+    background-image: url('/img/HomePage/NovelDesignerBackground.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.SiteDevelopmentBackground 
+{
+    background-image: url('/img/HomePage/SiteDevelopmentBackground.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.TelegramBotDevelopmentBackground 
+{
+    background-image: url('/img/HomePage/TelegramBotDevelopmentBackground.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.SoftwareDevelopmentBackground
+{
+    background-image: url('/img/HomePage/SoftwareDevelopmentBackground.png');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.DesignServicesBackground
+{
+    background-image: url('/img/HomePage/DesignServicesBackground.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
+

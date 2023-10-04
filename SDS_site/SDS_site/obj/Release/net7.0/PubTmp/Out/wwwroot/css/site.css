@@ -1,0 +1,100 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.backgroundImg {
+    background-image: url('/ImgNov.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.backgroundImg1 {
+    background-image: url('/game.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.backgroundImg2 {
+    background-image: url('/Screenshot_1.png');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.backgroundImg3 {
+    background-image: url('/site-s-nulya-blog_1511275051.04a3c5a0.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.backgroundImg4 {
+    background-image: url('/scr1-min.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.backgroundImg5 {
+    background-image: url('/development.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+.backgroundImg6 {
+    background-image: url('/desight-poligrafia.jpg');
+    background-size: cover;
+    min-height: 600px;
+    max-height: 600px;
+    margin: 0;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.container1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container h1, .container p, .container button {
+        text-align: center;
+}
+
+.square-btn {
+    width: 150px; /* Ширина кнопки */
+    height: 40px; /* Высота кнопки */
+    padding: 0; /* Убрать отступ внутри кнопки */
+    border: 1px solid black;
+}

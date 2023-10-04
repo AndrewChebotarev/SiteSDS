@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\DesignServicesPage\\DesignServicesPageStyle.css",
+      "PackagePath": "staticwebassets\\css\\DesignServicesPage\\DesignServicesPageStyle.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\GameCreationPage\\GameCreationPageStyle.css",
+      "PackagePath": "staticwebassets\\css\\GameCreationPage\\GameCreationPageStyle.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\HomePage\\HomePageStyle.css",
+      "PackagePath": "staticwebassets\\css\\HomePage\\HomePageStyle.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\NovelDesignerPage\\NovelDesignerPageStyle.css",
+      "PackagePath": "staticwebassets\\css\\NovelDesignerPage\\NovelDesignerPageStyle.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\NovelPage\\NovelPageStyle.css",
+      "PackagePath": "staticwebassets\\css\\NovelPage\\NovelPageStyle.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\SiteDevelopmentPage\\SiteDevelopmentPageStyle.css",
+      "PackagePath": "staticwebassets\\css\\SiteDevelopmentPage\\SiteDevelopmentPageStyle.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\SoftwareDevelopmentPage\\SoftwareDevelopmentPageStyle.css",
+      "PackagePath": "staticwebassets\\css\\SoftwareDevelopmentPage\\SoftwareDevelopmentPageStyle.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\TelegramBotDevelopmentPage\\TelegramBotDevelopmentPageStyle.css",
+      "PackagePath": "staticwebassets\\css\\TelegramBotDevelopmentPage\\TelegramBotDevelopmentPageStyle.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\DesignServicesPage\\DesignHelp.jpg",
+      "PackagePath": "staticwebassets\\img\\DesignServicesPage\\DesignHelp.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\DesignServicesPage\\DesignService.png",
+      "PackagePath": "staticwebassets\\img\\DesignServicesPage\\DesignService.png"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\GameCreationPage\\2DGameCreation.jpg",
+      "PackagePath": "staticwebassets\\img\\GameCreationPage\\2DGameCreation.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\GameCreationPage\\DeveloperGameCreation.jpeg",
+      "PackagePath": "staticwebassets\\img\\GameCreationPage\\DeveloperGameCreation.jpeg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\DesignServicesBackground.jpg",
+      "PackagePath": "staticwebassets\\img\\HomePage\\DesignServicesBackground.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\GameCreationBackground.jpg",
+      "PackagePath": "staticwebassets\\img\\HomePage\\GameCreationBackground.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\NovelBackground.jpg",
+      "PackagePath": "staticwebassets\\img\\HomePage\\NovelBackground.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\NovelDesignerBackground.jpg",
+      "PackagePath": "staticwebassets\\img\\HomePage\\NovelDesignerBackground.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\SiteDevelopmentBackground.jpg",
+      "PackagePath": "staticwebassets\\img\\HomePage\\SiteDevelopmentBackground.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\SoftwareDevelopmentBackground.png",
+      "PackagePath": "staticwebassets\\img\\HomePage\\SoftwareDevelopmentBackground.png"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\TelegramBotDevelopmentBackground.jpg",
+      "PackagePath": "staticwebassets\\img\\HomePage\\TelegramBotDevelopmentBackground.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelDesignerPage\\FirstGameConstruct.jpg",
+      "PackagePath": "staticwebassets\\img\\NovelDesignerPage\\FirstGameConstruct.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelDesignerPage\\MenuKonstruct.jpg",
+      "PackagePath": "staticwebassets\\img\\NovelDesignerPage\\MenuKonstruct.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelPage\\ClassRoom.jpg",
+      "PackagePath": "staticwebassets\\img\\NovelPage\\ClassRoom.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelPage\\NovelRoom.jpg",
+      "PackagePath": "staticwebassets\\img\\NovelPage\\NovelRoom.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelPage\\SchoolCorridor.jpg",
+      "PackagePath": "staticwebassets\\img\\NovelPage\\SchoolCorridor.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SiteDevelopmentPage\\CreationSiteAllPlatform.png",
+      "PackagePath": "staticwebassets\\img\\SiteDevelopmentPage\\CreationSiteAllPlatform.png"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SiteDevelopmentPage\\LaptopSiteCreation.png",
+      "PackagePath": "staticwebassets\\img\\SiteDevelopmentPage\\LaptopSiteCreation.png"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SoftwareDevelopmentPage\\PODevelopmentPic.jpg",
+      "PackagePath": "staticwebassets\\img\\SoftwareDevelopmentPage\\PODevelopmentPic.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SoftwareDevelopmentPage\\SiteMind.jpg",
+      "PackagePath": "staticwebassets\\img\\SoftwareDevelopmentPage\\SiteMind.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SoftwareDevelopmentPage\\SiteMind1.jpg",
+      "PackagePath": "staticwebassets\\img\\SoftwareDevelopmentPage\\SiteMind1.jpg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\TelegramBotDevelopmentPage\\ChatTelegramBot.png",
+      "PackagePath": "staticwebassets\\img\\TelegramBotDevelopmentPage\\ChatTelegramBot.png"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\TelegramBotDevelopmentPage\\TelegramBotPic.jpeg",
+      "PackagePath": "staticwebassets\\img\\TelegramBotDevelopmentPage\\TelegramBotPic.jpeg"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\HomePageScript.js",
+      "PackagePath": "staticwebassets\\js\\HomePage\\HomePageScript.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\LICENSE",
+      "PackagePath": "staticwebassets\\js\\HomePage\\parallax.js-1.5.0"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\README.md",
+      "PackagePath": "staticwebassets\\js\\HomePage\\parallax.js-1.5.0\\README.md"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\bower.json",
+      "PackagePath": "staticwebassets\\js\\HomePage\\parallax.js-1.5.0\\bower.json"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\package.json",
+      "PackagePath": "staticwebassets\\js\\HomePage\\parallax.js-1.5.0\\package.json"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\parallax.js",
+      "PackagePath": "staticwebassets\\js\\HomePage\\parallax.js-1.5.0\\parallax.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\HomePage\\parallax.js-1.5.0\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SDS_site.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SDS_site.props",
+      "PackagePath": "build\\SDS_site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SDS_site.props",
+      "PackagePath": "buildMultiTargeting\\SDS_site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SDS_site.props",
+      "PackagePath": "buildTransitive\\SDS_site.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
