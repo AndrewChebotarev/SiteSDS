@@ -1,5 +1,12 @@
+//Сайт - Sokolov Development Studio
+//-------------------------------------------------------------------------------------------------------------------------------------------------
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHostedService<GeneralStatistics>();
+
+//-------------------------------------------------------------------------------------------------------------------------------------------------
 
 var app = builder.Build();
 
@@ -12,10 +19,10 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
-string aspNetVersion = typeof(HttpContext).Assembly.GetName().Version.ToString();
-
 app.UseRouting();
 app.UseAuthorization();
+
+//-------------------------------------------------------------------------------------------------------------------------------------------------
 
 app.MapControllerRoute(
     name: "HomePage",
@@ -49,4 +56,8 @@ app.MapControllerRoute(
     name: "DesignServicePage",
     pattern: "{controller=Pages}/{action=DesignServicePage}/{id?}");
 
+//-------------------------------------------------------------------------------------------------------------------------------------------------
+
 app.Run();
+
+//-------------------------------------------------------------------------------------------------------------------------------------------------

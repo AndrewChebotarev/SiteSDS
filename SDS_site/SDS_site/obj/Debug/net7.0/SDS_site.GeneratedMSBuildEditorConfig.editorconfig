@@ -44,8 +44,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcU29mdHdhcmVEZXZlbG9wbWVudFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/sds/SiteSDS/SDS_site/SDS_site/Views/Pages/TelegramBotDevelopment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcVGVsZWdyYW1Cb3REZXZlbG9wbWVudC5jc2h0bWw=
+[D:/sds/SiteSDS/SDS_site/SDS_site/Views/Pages/TelegramBotDevelopmentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcVGVsZWdyYW1Cb3REZXZlbG9wbWVudFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/sds/SiteSDS/SDS_site/SDS_site/Views/Shared/Error.cshtml]

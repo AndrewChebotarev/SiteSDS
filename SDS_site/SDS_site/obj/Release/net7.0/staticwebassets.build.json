@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JVNP98+VNVHA1cGFQAJe5eRL/S3C2avIeO6GZEf5ywM=",
+  "Hash": "Q20LiPTIWtfBvd6+kg0KZD5abiuCDUNX5X9D0zG+09k=",
   "Source": "SDS_site",
   "BasePath": "_content/SDS_site",
   "Mode": "Default",
@@ -10,17 +10,51 @@
     {
       "Name": "SDS_site\\wwwroot",
       "Source": "SDS_site",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\css\\HomePage\\HomePageStyle.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\DesignServicesPage\\DesignServicesPageStyle.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "css/DesignServicesPage/DesignServicesPageStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\DesignServicesPage\\DesignServicesPageStyle.css"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\GameCreationPage\\GameCreationPageStyle.css",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "css/GameCreationPage/GameCreationPageStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\GameCreationPage\\GameCreationPageStyle.css"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\HomePage\\HomePageStyle.css",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "css/HomePage/HomePageStyle.css",
       "AssetKind": "All",
@@ -34,12 +68,12 @@
       "OriginalItemSpec": "wwwroot\\css\\HomePage\\HomePageStyle.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\css\\HomePage\\NovelPageStyle.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\NovelDesignerPage\\NovelDesignerPageStyle.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
-      "RelativePath": "css/HomePage/NovelPageStyle.css",
+      "RelativePath": "css/NovelDesignerPage/NovelDesignerPageStyle.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,13 +82,149 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\HomePage\\NovelPageStyle.css"
+      "OriginalItemSpec": "wwwroot\\css\\NovelDesignerPage\\NovelDesignerPageStyle.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\DesignServicesBackground.jpg",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\NovelPage\\NovelPageStyle.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "css/NovelPage/NovelPageStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\NovelPage\\NovelPageStyle.css"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\SiteDevelopmentPage\\SiteDevelopmentPageStyle.css",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "css/SiteDevelopmentPage/SiteDevelopmentPageStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\SiteDevelopmentPage\\SiteDevelopmentPageStyle.css"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\SoftwareDevelopmentPage\\SoftwareDevelopmentPageStyle.css",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "css/SoftwareDevelopmentPage/SoftwareDevelopmentPageStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\SoftwareDevelopmentPage\\SoftwareDevelopmentPageStyle.css"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\css\\TelegramBotDevelopmentPage\\TelegramBotDevelopmentPageStyle.css",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "css/TelegramBotDevelopmentPage/TelegramBotDevelopmentPageStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\TelegramBotDevelopmentPage\\TelegramBotDevelopmentPageStyle.css"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\DesignServicesPage\\DesignHelp.jpg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/DesignServicesPage/DesignHelp.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\DesignServicesPage\\DesignHelp.jpg"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\DesignServicesPage\\DesignService.png",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/DesignServicesPage/DesignService.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\DesignServicesPage\\DesignService.png"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\GameCreationPage\\2DGameCreation.jpg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/GameCreationPage/2DGameCreation.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\GameCreationPage\\2DGameCreation.jpg"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\GameCreationPage\\DeveloperGameCreation.jpeg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/GameCreationPage/DeveloperGameCreation.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\GameCreationPage\\DeveloperGameCreation.jpeg"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\DesignServicesBackground.jpg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/HomePage/DesignServicesBackground.jpg",
       "AssetKind": "All",
@@ -68,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HomePage\\DesignServicesBackground.jpg"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\GameCreationBackground.jpg",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\GameCreationBackground.jpg",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/HomePage/GameCreationBackground.jpg",
       "AssetKind": "All",
@@ -85,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HomePage\\GameCreationBackground.jpg"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\NovelBackground.jpg",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\NovelBackground.jpg",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/HomePage/NovelBackground.jpg",
       "AssetKind": "All",
@@ -102,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HomePage\\NovelBackground.jpg"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\NovelDesignerBackground.jpg",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\NovelDesignerBackground.jpg",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/HomePage/NovelDesignerBackground.jpg",
       "AssetKind": "All",
@@ -119,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HomePage\\NovelDesignerBackground.jpg"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\SiteDevelopmentBackground.jpg",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\SiteDevelopmentBackground.jpg",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/HomePage/SiteDevelopmentBackground.jpg",
       "AssetKind": "All",
@@ -136,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HomePage\\SiteDevelopmentBackground.jpg"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\SoftwareDevelopmentBackground.png",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\SoftwareDevelopmentBackground.png",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/HomePage/SoftwareDevelopmentBackground.png",
       "AssetKind": "All",
@@ -153,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HomePage\\SoftwareDevelopmentBackground.png"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\TelegramBotDevelopmentBackground.jpg",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\HomePage\\TelegramBotDevelopmentBackground.jpg",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/HomePage/TelegramBotDevelopmentBackground.jpg",
       "AssetKind": "All",
@@ -170,10 +340,44 @@
       "OriginalItemSpec": "wwwroot\\img\\HomePage\\TelegramBotDevelopmentBackground.jpg"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\NovelPage\\ClassRoom.jpg",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelDesignerPage\\FirstGameConstruct.jpg",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/NovelDesignerPage/FirstGameConstruct.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\NovelDesignerPage\\FirstGameConstruct.jpg"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelDesignerPage\\MenuKonstruct.jpg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/NovelDesignerPage/MenuKonstruct.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\NovelDesignerPage\\MenuKonstruct.jpg"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelPage\\ClassRoom.jpg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/NovelPage/ClassRoom.jpg",
       "AssetKind": "All",
@@ -187,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\NovelPage\\ClassRoom.jpg"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\NovelPage\\NovelRoom.jpg",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelPage\\NovelRoom.jpg",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/NovelPage/NovelRoom.jpg",
       "AssetKind": "All",
@@ -204,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\NovelPage\\NovelRoom.jpg"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\img\\NovelPage\\SchoolCorridor.jpg",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\NovelPage\\SchoolCorridor.jpg",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "img/NovelPage/SchoolCorridor.jpg",
       "AssetKind": "All",
@@ -221,10 +425,129 @@
       "OriginalItemSpec": "wwwroot\\img\\NovelPage\\SchoolCorridor.jpg"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\HomePageScript.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SiteDevelopmentPage\\CreationSiteAllPlatform.png",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/SiteDevelopmentPage/CreationSiteAllPlatform.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SiteDevelopmentPage\\CreationSiteAllPlatform.png"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SiteDevelopmentPage\\LaptopSiteCreation.png",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/SiteDevelopmentPage/LaptopSiteCreation.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SiteDevelopmentPage\\LaptopSiteCreation.png"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SoftwareDevelopmentPage\\PODevelopmentPic.jpg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/SoftwareDevelopmentPage/PODevelopmentPic.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SoftwareDevelopmentPage\\PODevelopmentPic.jpg"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SoftwareDevelopmentPage\\SiteMind.jpg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/SoftwareDevelopmentPage/SiteMind.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SoftwareDevelopmentPage\\SiteMind.jpg"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\SoftwareDevelopmentPage\\SiteMind1.jpg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/SoftwareDevelopmentPage/SiteMind1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SoftwareDevelopmentPage\\SiteMind1.jpg"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\TelegramBotDevelopmentPage\\ChatTelegramBot.png",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/TelegramBotDevelopmentPage/ChatTelegramBot.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\TelegramBotDevelopmentPage\\ChatTelegramBot.png"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\img\\TelegramBotDevelopmentPage\\TelegramBotPic.jpeg",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
+      "BasePath": "_content/SDS_site",
+      "RelativePath": "img/TelegramBotDevelopmentPage/TelegramBotPic.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\TelegramBotDevelopmentPage\\TelegramBotPic.jpeg"
+    },
+    {
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\HomePageScript.js",
+      "SourceId": "SDS_site",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "js/HomePage/HomePageScript.js",
       "AssetKind": "All",
@@ -238,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\js\\HomePage\\HomePageScript.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\bower.json",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\bower.json",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "js/HomePage/parallax.js-1.5.0/bower.json",
       "AssetKind": "All",
@@ -255,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\js\\HomePage\\parallax.js-1.5.0\\bower.json"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\LICENSE",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\LICENSE",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "js/HomePage/parallax.js-1.5.0/LICENSE",
       "AssetKind": "All",
@@ -272,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\js\\HomePage\\parallax.js-1.5.0\\LICENSE"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\package.json",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\package.json",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "js/HomePage/parallax.js-1.5.0/package.json",
       "AssetKind": "All",
@@ -289,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\js\\HomePage\\parallax.js-1.5.0\\package.json"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\parallax.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\parallax.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "js/HomePage/parallax.js-1.5.0/parallax.js",
       "AssetKind": "All",
@@ -306,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\js\\HomePage\\parallax.js-1.5.0\\parallax.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\parallax.min.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\parallax.min.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "js/HomePage/parallax.js-1.5.0/parallax.min.js",
       "AssetKind": "All",
@@ -323,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\js\\HomePage\\parallax.js-1.5.0\\parallax.min.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\README.md",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\js\\HomePage\\parallax.js-1.5.0\\README.md",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "js/HomePage/parallax.js-1.5.0/README.md",
       "AssetKind": "All",
@@ -340,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\HomePage\\parallax.js-1.5.0\\README.md"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -357,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -374,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -391,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -408,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -425,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -442,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -459,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -476,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -493,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -510,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -527,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -544,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -561,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -578,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -595,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -612,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -629,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -646,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -663,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -680,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -697,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -714,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -731,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -748,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -765,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -782,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -799,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -816,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -833,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -850,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -867,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -884,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -901,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -918,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -935,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -952,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -969,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -986,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1003,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1020,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1037,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1054,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1071,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1088,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1105,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1122,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1139,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1156,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1173,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1190,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1207,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1224,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1241,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1258,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1275,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1292,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SDS_site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sds\\SDS_site\\SDS_site\\wwwroot\\",
+      "ContentRoot": "D:\\sds\\SiteSDS\\SDS_site\\SDS_site\\wwwroot\\",
       "BasePath": "_content/SDS_site",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
